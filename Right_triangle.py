@@ -1,3 +1,3 @@
 n=int (input ())
 for n in range (n,0,-1):
-    print ("1 "*n,end=" ")
+    print ("1 "*n)
